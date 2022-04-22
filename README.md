@@ -1,5 +1,5 @@
 ## Data and R Training  
-### 26-27 April 2022  
+### 26 - 27 April 2022  
 
 **Fish, Food, and Allied Workers**  
 *St John's, Newfoundland*  
@@ -31,7 +31,7 @@ Install the up-to-date versions of the required packages, using the following co
 `install.packages(ggplot2)`  
 `install.packages(stringr)`    
 
-*If you are not familiar with running code in RStudio or are not able to install the packages, don't worry! We will cover this during the workshop. It saves time if you can do this before March 4, but if not, there will be time on February 23 dedicated to completing this task.*
+*If you are not familiar with running code in RStudio or are not able to install the packages, don't worry! We will cover this during the workshop, but it will save you some time if you can do this before then.*
 
 
 #### 4. Download the workshop materials
