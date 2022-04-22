@@ -36,4 +36,7 @@ Install the up-to-date versions of the required packages, using the following co
 
 #### 4. Download the workshop materials
 
-Click on the green button labelled "Code" near the top of the screen. Select "Download ZIP". Once downloaded, unzip these files and save them to a **new folder** on your computer that is easy to find.
+Click on the green button labelled "Code" near the top of the screen. Select "Download ZIP". Once downloaded, unzip these files and save them to a **new folder** on your computer that is easy to find.  
+
+### Office Hours  
+If you are having any trouble with the above steps or would like to review any of these steps, please join the Zoom Office Hours on 25 April. Please check your email for details and link information.  
