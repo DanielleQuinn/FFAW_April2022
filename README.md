@@ -1,5 +1,5 @@
 ## Data and R Training  
-### 26 - 27 April 2022  
+### 26 - 28 April 2022  
 
 **Fish, Food, and Allied Workers**  
 *St John's, Newfoundland*  
